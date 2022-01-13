@@ -1,0 +1,26 @@
+[
+ {
+    "modulo": 10,
+    "n_tablas": 50
+  },
+  {
+    "modulo": 20,
+    "n_tablas": 20
+  },
+  {
+    "modulo": 30,
+    "n_tablas": 10
+  },
+  {
+    "modulo": 40,
+    "n_tablas": 56
+  },
+  {
+    "modulo": 50,
+    "n_tablas": 17
+  },
+  {
+    "modulo": 60,
+    "n_tablas": 5
+  }
+];
