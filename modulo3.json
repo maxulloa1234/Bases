@@ -1,0 +1,32 @@
+[
+ {
+    "codigo": 1,
+    "modulo": "Pasivas",
+    "n_tablas": 50
+  },
+  {
+    "codigo": 2,
+    "modulo": "Activas",
+    "n_tablas": 20
+  },
+  {
+    "codigo": 3,
+    "modulo": "Contabilidad",
+    "n_tablas": 10
+  },
+  {
+    "codigo": 4,
+    "modulo": "Clientes",
+    "n_tablas": 56
+  },
+  {
+    "codigo": 5,
+    "modulo": "Seguridad",
+    "n_tablas": 17
+  },
+  {
+    "codigo": 6,
+    "modulo": "Cartera",
+    "n_tablas": 5
+  }
+]
