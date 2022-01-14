@@ -1,0 +1,16 @@
+modulo,base,numero_objetos
+Pasivas,cartera,2
+Pasivas,credito,3
+Pasivas,tarjeta,4
+Activas,cuentas_ah,5
+Activas,cuentas_ah,5
+Activas,cuentas_cc,5
+Clientes,clientes,5
+Clientes,personas,2
+Clientes,juridicos,5
+Contabilidad,base1,5
+Contabilidad,base2,2
+Contabilidad,base3,5
+Seguridad,base1,5
+Seguridad,base2,2
+Seguridad,base3,5
