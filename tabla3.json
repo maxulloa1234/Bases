@@ -1,0 +1,62 @@
+[
+ {
+    "modulo": "Pasivas",
+    "estado": "Depuradas",
+    "porcentaje": 20
+  },
+ {
+    "modulo": "Pasivas",
+    "estado": "No Depuradas",
+    "porcentaje": 80
+  },
+ {
+    "modulo": "Activas",
+    "estado": "Depuradas",
+    "porcentaje": 30
+  },
+ {
+    "modulo": "Activas",
+    "estado": "No Depuradas",
+    "porcentaje": 70
+  },
+{
+    "modulo": "Contabilidad",
+    "estado": "Depuradas",
+    "porcentaje": 40
+  },
+ {
+    "modulo": "Contabilidad",
+    "estado": "No Depuradas",
+    "porcentaje": 60
+  }, 
+{
+    "modulo": "Clientes",
+    "estado": "Depuradas",
+    "porcentaje": 40
+  },
+ {
+    "modulo": "Clientes",
+    "estado": "No Depuradas",
+    "porcentaje": 60
+  }, 
+{
+    "modulo": "Seguridad",
+    "estado": "Depuradas",
+    "porcentaje": 40
+  },
+ {
+    "modulo": "Seguridad",
+    "estado": "No Depuradas",
+    "porcentaje": 60
+  }, 
+{
+    "modulo": "Cartera",
+    "estado": "Depuradas",
+    "porcentaje": 40
+  },
+ {
+    "modulo": "Cartera",
+    "estado": "No Depuradas",
+    "porcentaje": 60
+  } 
+]
